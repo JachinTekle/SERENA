@@ -5,6 +5,8 @@ API.env
 # Audio files
 wav/
 
+#literature
+literature/
 # Python
 __pycache__/
 *.py[cod]
